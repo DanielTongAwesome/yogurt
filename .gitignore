@@ -1,0 +1,7 @@
+# ignore system files
+.DS_Store
+
+# ignore setup tool generated files
+build/
+dist/
+yogurt.egg-info/
