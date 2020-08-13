@@ -1,10 +1,10 @@
 '''
 @Author: Zitian(Daniel) Tong
 @Date: 2020-07-17 17:38:54
-@LastEditTime: 2020-07-17 17:43:47
-@LastEditors: Zitian(Daniel) Tong
+LastEditTime: 2020-08-13 12:44:44
+LastEditors: Zitian(Daniel) Tong
 @Description: setup files from pypi
-@FilePath: /yogurt/setup.py
+FilePath: /yogurt/setup.py
 '''
 import setuptools
 
@@ -13,7 +13,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="yogurt", # Replace with your own username
-    version="0.0.1",
+    version="0.0.2",
     author="Zitian(Daniel) Tong",
     author_email="danieltongubc@gmail.com",
     description="A package to simplify the imteraction with smart contract",
